@@ -5,7 +5,7 @@ This task will involve you to create create a CICD pipeline for an application. 
 
 
 ## Instructions
-1. Use the application you have created in this repo in [Week 3](README.md)
+1. Use the application you have created in this repo in [Week 3](../week-3/README.md)
 2. Create a CICD pipeline to deploy your application
 3. Implement credentials (username or password) check and ssh key check. If credentials or ssh key is found, the pipeline will fail
 4. Implement security vulnerability checks using synk or Trivy. If synk or Trivyis found, the pipeline will fail
