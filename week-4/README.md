@@ -1,7 +1,7 @@
 ### Week 4
 This task is to test your undestanding on creating a CICD pipeline
 
-This task will involve you to create create a CICD pipeline for an application. Your CICD pipeline will deploy into a single environment 
+This task will involve you to create a CICD pipeline for an application. Your CICD pipeline will deploy into a single environment 
 
 
 ## Instructions
