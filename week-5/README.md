@@ -1,7 +1,7 @@
 ### Week 4
 This task is to test your undestanding on creating and implementing IaC using terraform.
 
-This task will involve you to create a VM instance using terraform and installing nginx server on this instance.
+This will involve you to create a VM instance using terraform and installing nginx server on this instance.
 
 
 ## Instructions
